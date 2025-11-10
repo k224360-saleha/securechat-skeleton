@@ -3,3 +3,5 @@ venv_win
 __pycache__/
 steps.txt
 certs/
+server.log
+.env
